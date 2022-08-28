@@ -1,6 +1,6 @@
 # UFC_PPV
 Data analysis of UFC pay-per view  buys  per event compared to online fan engagement.
-|index|PPV|like\_count|view\_count|comment\_count|EventNumber|MainEvent|
+|index|PPV|like\_count Promotional videos|view\_count Promotional videos|comment\_count Promotional videos|EventNumber|MainEvent|
 |---|---|---|---|---|---|---|
 |0|2400000|72276|5712660|9809|229|Khabib vs\. McGregor|
 |1|1600000|232636|12590143|8021|257|Poirier vs\. McGregor 2|
