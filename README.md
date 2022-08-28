@@ -1,2 +1,80 @@
 # UFC_PPV
 Data analysis of UFC pay-per view  buys  per event compared to online fan engagement.
+|index|PPV|like\_count|view\_count|comment\_count|EventNumber|MainEvent|
+|---|---|---|---|---|---|---|
+|0|2400000|72276|5712660|9809|229|Khabib vs\. McGregor|
+|1|1600000|232636|12590143|8021|257|Poirier vs\. McGregor 2|
+|2|1600000|91725|11526510|2902|202|Diaz vs\. McGregor 2|
+|3|1504737|211450|11215280|4024|264|Poirier vs\. McGregor 3|
+|4|1353429|187721|14735557|5082|246|McGregor vs\. Cerrone|
+|5|1317000|42384|5755181|1522|196|McGregor vs\. Diaz|
+|6|1300000|91473|10635084|2882|205|Alvarez vs\. McGregor|
+|7|1300000|96235|6625382|4240|251|Usman vs\. Masvidal|
+|8|1200000|42087|6246355|1995|194|Aldo vs\. McGregor|
+|9|1100000|10707|2308939|1030|193|Rousey vs\. Holm|
+|10|1100000|13678|1962462|2277|207|Nunes vs\. Rousey|
+|11|1009000|34801|5155834|1208|200|Tate vs\. Nunes|
+|12|900000|10273|2498710|944|190|Rousey vs\. Correia|
+|13|875000|125852|12834471|2862|217|Bisping vs\. St\. Pierre|
+|14|860000|48909|4997207|2313|214|Cormier vs\. Jones 2|
+|15|825000|144011|23416339|1967|189|Mendes vs\. McGregor|
+|16|800000|7602|1294711|569|182|Jones vs\. Cormier|
+|17|800000|138214|7438203|4073|259|Błachowicz vs\. Adesanya|
+|18|700000|87778|5456180|3325|249|Ferguson vs\. Gaethje|
+|19|700000|26170|2551638|2139|232|Jones vs\. Gustafsson 2|
+|20|700000|77038|4652378|2405|253|Adesanya vs\. Costa|
+|21|700000|149764|6976315|5424|268|Usman vs\. Covington 2|
+|22|700000|98043|5740708|3293|261|Usman vs\. Masvidal 2|
+|23|675000|153372|8230548|4505|254|Khabib vs\. Gaethje|
+|24|650000|5548|879018|502|183|Silva vs\. Diaz|
+|25|650000|91832|8173550|2970|235|Jones vs\. Smith|
+|26|600000|123641|6517763|4402|263|Adesanya vs\. Vettori 2|
+|27|590000|15058|2762806|783|184|Rousey vs\. Zingano|
+|28|525000|5526|829705|451|175|Weidman vs\. Machida|
+|29|500000|98520|5559313|2965|269|Oliveira vs\. Poirier|
+|30|500000|72953|4655430|2414|252|Miocic vs\. Cormier 3|
+|31|475000|14625|1418304|1387|203|Miocic vs\. Overeem|
+|32|400000|108661|5945542|2807|274|Oliveira vs\. Gaethje|
+|33|400000|2603|413020|449|181|Hendricks vs\. Lawler 2|
+|34|380000|52963|4894234|1937|220|Miocic vs\. N'Gannou|
+|35|380000|5243|508790|1261|219|Cyborg vs\. Holm|
+|36|380000|31630|2905610|1844|226|Miocic vs\. Cormier|
+|37|375000|13345|2026654|806|187|Johnson vs\. Cormier|
+|38|350000|128198|14232142|3066|223|Khabib vs\. Iaquinta|
+|39|322000|7175|919013|875|197|Jones vs\. Saint Preux|
+|40|310000|5693|921630|386|185|Pettis vs\. Dos Anjos|
+|41|300000|21383|2017680|1256|211|Miocic vs\. Dos Santos 2|
+|42|300000|29936|3226177|1993|227|Dillashaw vs\. Garbrandt 2|
+|43|300000|52554|5031050|3007|209|Woodley vs\. Thompson 2|
+|44|300000|102021|4957958|3328|262|Oliveira vs\. Chandler|
+|45|300000|24034|2766908|1368|210|Cormier vs\. Johnson 2|
+|46|300000|8508|1296696|961|188|Velasquez vs\. Werdum|
+|47|290000|14927|1511032|1628|204|Bisping vs\. Henderson 2|
+|48|283000|30135|3886392|1266|199|Rockhold vs\. Bisping 2|
+|49|260000|21950|2442004|1371|222|Cyborg vs\. Kunitskaya|
+|50|250000|5680|852650|582|192|Cormier vs\. Gustafsson|
+|51|250000|28847|2703596|3004|225|Whittaker vs\. Romero 2|
+|52|240000|7806|886615|864|201|Lawler vs\. Woodley|
+|53|230000|34618|3713313|1438|218|Holloway vs\. Aldo 2|
+|54|230000|8923|1243592|688|195|Lawler vs\. Condit|
+|55|217000|6967|1173457|790|198|Werdum vs\. Miocic|
+|56|215000|15884|2194439|319|173|Barao vs\. Dillashaw|
+|57|205000|29399|4603385|1176|178|Johnson vs\. Cariaso|
+|58|200000|9112|1080153|721|208|Holm vs\. de Randamie|
+|59|200000|27511|2786544|1104|216|Ferguson vs\. Lee|
+|60|200000|8692|931603|851|212|Aldo vs\. Holloway|
+|61|190000|3039|472962|380|180|Werdum vs\. Hunt|
+|62|180000|4810|760385|365|179|Aldo vs\. Mendes 2|
+|63|175000|57726|4943270|2635|234|Adesanya vs\. Silva|
+|64|150000|8316|882391|995|206|Holloway vs\. Pettis|
+|65|130000|8916|1024242|1343|221|Romero vs\. Rockhold|
+|66|130000|17391|1873734|1192|213|Romero vs\. Whittaker|
+|67|130000|18272|1805733|1614|228|Woodley vs\. Till|
+|68|125000|1566|241905|227|177|Dillashaw vs\. Soto|
+|69|125000|2181|252590|453|186|Johnson vs\. Horiguchi|
+|70|115000|7032|914580|401|174|Johnson vs\. Bagautinov|
+|71|115000|4926|659230|419|191|Johnson vs\. Dodson 2|
+|72|100000|92682|8758364|1940|236|Holloway vs\. Poirier 2|
+|73|100000|11880|1103987|1359|215|Nunes vs\. Shevchenko 2|
+|74|85000|6111|735344|1360|224|Nunes vs\. Pennington|
+|75|85000|15698|1296309|1834|250|Nunes vs\. Spencer|
